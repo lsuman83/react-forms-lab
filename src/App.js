@@ -16,7 +16,6 @@ class App extends Component {
           <pre>LoginForm</pre>
         </h1>
         <LoginForm handleLogin={this.login} />
-
         <h1>
           <pre>TwitterMessage</pre>
         </h1>
